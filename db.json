@@ -1,0 +1,102 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "123",
+      "role": "admin"
+    },
+    {
+      "username": "mahasiswa",
+      "password": "1234",
+      "role": "mahasiswa",
+      "absen": [
+        {
+          "id": 1,
+          "tanggal": "2021-11-06",
+          "picked": "Hadir",
+          "picked2": "Hadir",
+          "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqLN9iXUmU2gUkxAsUKIPm6qv8dQkT5-j4Xg&usqp=CAU"
+        },
+        {
+          "id": 2,
+          "tanggal": "2021-11-19",
+          "picked": "Hadir",
+          "picked2": "Hadir",
+          "gambar": "gambar"
+        },
+        {
+          "id": 3,
+          "tanggal": "2021-11-19",
+          "picked": "Hadir",
+          "picked2": "Hadir",
+          "gambar": "sss"
+        },
+        {
+          "id": 4,
+          "tanggal": "2021-11-19",
+          "picked": "Hadir",
+          "picked2": "Hadir",
+          "gambar": "testing"
+        },
+        {
+          "id": 5,
+          "tanggal": "2021-11-20",
+          "picked": "Hadir",
+          "gambar": "ssssdad"
+        },
+        {
+          "id": 6,
+          "tanggal": "2021-11-21",
+          "picked": "Hadir",
+          "gambar": "qawsed"
+        },
+        {
+          "id": 7,
+          "tanggal": "2021-11-20",
+          "picked": "Hadir",
+          "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSUaF6yf5wR65vgeQPmRnIGojtRido6VkzUv6sap7Rf3QHjvUlBP3e4iL2sfKIPOqp-e8&usqp=CAU"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "id": 3,
+      "username": "dosen",
+      "password": "sayapalingbenar",
+      "role": "dosen"
+    }
+  ],
+  "infoMahasiswa": [
+    {
+      "id": 0,
+      "nama": "Alysa Marya",
+      "tanggal": "2021-11-06",
+      "picked": "Hadir",
+      "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqLN9iXUmU2gUkxAsUKIPm6qv8dQkT5-j4Xg&usqp=CAU"
+    },
+    {
+      "id": 1,
+      "nama": "Nisa Safina",
+      "tanggal": "2021-11-13",
+      "picked": "Hadir",
+      "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTimytLqspa_vDJ8olJRoWyFqrtpqICIIM2vg&usqp=CAU"
+    }
+  ],
+  "infoDosen": [
+    {
+      "id": 0,
+      "nama": "Alysa Marya",
+      "tanggal": "2021-11-06",
+      "picked": "Hadir",
+      "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqLN9iXUmU2gUkxAsUKIPm6qv8dQkT5-j4Xg&usqp=CAU"
+    },
+    {
+      "id": 1,
+      "nama": "Nisa Safina",
+      "tanggal": "2021-11-13",
+      "picked": "Hadir",
+      "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTimytLqspa_vDJ8olJRoWyFqrtpqICIIM2vg&usqp=CAU"
+    }
+  ]
+}
